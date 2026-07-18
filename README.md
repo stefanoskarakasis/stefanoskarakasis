@@ -1,14 +1,13 @@
 ## Hi, I'm Stefanos 👋🏼
 
-Growth marketer at [Tella](https://tella.tv) — the all-in-one screen recorder.
-
-**Product Marketing Lead at Just Eat Takeaway.com for Business - the meal benefits platform for forward-thinking businesses.**
+**Product Marketing Lead at Just Eat Takeaway.com for Business** - the meal benefits platform for forward-thinking businesses.**
 
 ---
 
 ## Currently
 - Builder of the Product Marketing Skills Marketplace — 21 Claude skills for PMMs and GTM teams covering positioning, competitive intel, GTM strategy, and execution.
 - I write about FinTech GTM strategy and market intelligence in [The Spread](https://thespreadnewsletter.substack.com/), write on [Substack] (https://stefanoskarakasis.substack.com/), and distribute open PMM frameworks through [Gumroad](https://heystefanos.gumroad.com/).
+- Also curates the most impactful [Go-To-Market Jobs](https://gtmjobs.substack.com/) every week.
 
 ---
 
@@ -26,7 +25,6 @@ Growth marketer at [Tella](https://tella.tv) — the all-in-one screen recorder.
 
 ## 🔍 Find Me
 
-[![Newsletter](https://img.shields.io/badge/Newsletter-The%20Spread-0ECC7A?style=flat-square)](https://thespreadnewsletter.substack.com/)
-[![Gumroad](https://img.shields.io/badge/Gumroad-PMM%20Skills-FF90E8?style=flat-square)](https://heystefanos.gumroad.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefanos%20Karakasis-0A66C2?style=flat-square)](https://www.linkedin.com/in/stefanoskarakasis/)
-[![GitHub](https://img.shields.io/badge/GitHub-stefanoskarakasis-181717?style=flat-square)](https://github.com/stefanoskarakasis)
+- [![Newsletter](https://img.shields.io/badge/Newsletter-The%20Spread-0ECC7A?style=flat-square)](https://thespreadnewsletter.substack.com/)
+- [![Gumroad](https://img.shields.io/badge/Gumroad-PMM%20Skills-FF90E8?style=flat-square)](https://heystefanos.gumroad.com/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefanos%20Karakasis-0A66C2?style=flat-square)](https://www.linkedin.com/in/stefanoskarakasis/)
