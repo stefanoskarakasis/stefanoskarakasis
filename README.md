@@ -1,16 +1,14 @@
-## Hi, I'm Stefanos Karakasis 👋🏼
+## Hi, I'm Stefanos 👋🏼
 
-**AI PMM · GTM Strategist · Creator**
+Growth marketer at [Tella](https://tella.tv) — the all-in-one screen recorder.
 
-Builder of the Product Marketing Skills Marketplace — 21 Claude skills for PMMs and GTM teams covering positioning, competitive intel, GTM strategy, and execution. I write about FinTech GTM strategy and market intelligence in [The Spread](https://thespreadnewsletter.substack.com/) and distribute open PMM frameworks through [Gumroad](https://heystefanos.gumroad.com/).
+**Product Marketing Lead at Just Eat Takeaway.com for Business - the meal benefits platform for forward-thinking businesses.**
 
 ---
 
-## 🧠 PMM Skills Marketplace
-
-[![Stars](https://img.shields.io/github/stars/stefanoskarakasis/Product-Marketing-Skills?style=flat-square)](https://github.com/stefanoskarakasis/Product-Marketing-Skills)
-
-[stefanoskarakasis/Product-Marketing-Skills](https://github.com/stefanoskarakasis/Product-Marketing-Skills) — 21 Claude skills for PMMs and GTM teams. Three plugin packages: Knowledge Foundation, PMM-Toolkit, and PMM-Execution. Covers positioning, competitive battlecards, ICP, buyer personas, GTM strategy, stakeholder maps, and more. Built on a self-improving compounding architecture — every skill gets smarter with use.
+## Currently
+- Builder of the Product Marketing Skills Marketplace — 21 Claude skills for PMMs and GTM teams covering positioning, competitive intel, GTM strategy, and execution.
+- I write about FinTech GTM strategy and market intelligence in [The Spread](https://thespreadnewsletter.substack.com/), write on [Substack] (https://stefanoskarakasis.substack.com/), and distribute open PMM frameworks through [Gumroad](https://heystefanos.gumroad.com/).
 
 ---
 
