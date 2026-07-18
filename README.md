@@ -6,7 +6,7 @@
 
 ### Currently
 - Builder of the Product Marketing Skills Marketplace — 21 Claude skills for PMMs and GTM teams covering positioning, competitive intel, GTM strategy, and execution.
-- I write about FinTech GTM strategy and market intelligence in [The Spread](https://thespreadnewsletter.substack.com/), write on [Substack] (https://stefanoskarakasis.substack.com/), and distribute open PMM frameworks through [Gumroad](https://heystefanos.gumroad.com/).
+- I write about FinTech GTM strategy and market intelligence in [The Spread](https://thespreadnewsletter.substack.com/), write on [Substack](https://stefanoskarakasis.substack.com/), and distribute open PMM frameworks through [Gumroad](https://heystefanos.gumroad.com/).
 - Also curates the most impactful [Go-To-Market Jobs](https://gtmjobs.substack.com/) every week.
 
 ---
