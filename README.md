@@ -1,6 +1,6 @@
-## Hi, I'm Stefanos 👋🏼
+## I'm Stefanos 👋🏼
 
-**Product Marketing Lead at Just Eat Takeaway.com for Business** - the meal benefits platform for forward-thinking businesses.**
+**Product Marketing Lead at Just Eat Takeaway.com for Business** - the meal benefits platform for forward-thinking businesses.
 
 ---
 
