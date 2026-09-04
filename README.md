@@ -13,7 +13,7 @@
 
 ### 🧭 PMM Skills Marketplace
 
-stefanoskarakasis/Product-Marketing-Skills — 30+ agentic skills, commands, and plugins for Claude Code, Cowork, Gemini CLI, Cursor, Codex, and Kiro. Covers growth, strategy, execution, messaging, enablement, and Go-To-Market.
+[stefanoskarakasis/Product-Marketing-Skills](https://github.com/stefanoskarakasis/Product-Marketing-Skills/tree/main) — 30+ agentic skills, commands, and plugins for Claude Code, Cowork, Gemini CLI, Cursor, Codex, and Kiro. Covers growth, strategy, execution, messaging, enablement, and Go-To-Market.
 
 ---
 
