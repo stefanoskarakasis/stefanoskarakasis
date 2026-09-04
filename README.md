@@ -11,19 +11,25 @@
 
 ---
 
+### 🧭 PMM Skills Marketplace
+
+stefanoskarakasis/Product-Marketing-Skills — 30+ agentic skills, commands, and plugins for Claude Code, Cowork, Gemini CLI, Cursor, Codex, and Kiro. Covers growth, strategy, execution, messaging, enablement, and Go-To-Market.
+
+---
+
 ### 📬 The Spread
 
 [thespreadnewsletter.substack.com](https://thespreadnewsletter.substack.com/) — The most actionable FinTech publication. GTM strategy, market intelligence, and competitive signals for FinTech operators. EMEA-focused.
 
 ---
 
-### 🛒 PMM Skills on Gumroad
+### 🛒 Product Marketing Frameworks
 
 [heystefanos.gumroad.com](https://heystefanos.gumroad.com/) — Free and pay-what-you-want PMM skill packages. Plug directly into Claude. Built for IC PMMs to VP-level GTM leaders in B2B SaaS.
 
 ---
 
-### 🔍 Links
+### 🔍 Find Me
 
 - [![Newsletter](https://img.shields.io/badge/Newsletter-The%20Spread-0ECC7A?style=flat-square)](https://thespreadnewsletter.substack.com/)
 - [![Gumroad](https://img.shields.io/badge/Gumroad-PMM%20Skills-FF90E8?style=flat-square)](https://heystefanos.gumroad.com/)
