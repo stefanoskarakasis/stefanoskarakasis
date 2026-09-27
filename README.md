@@ -30,6 +30,6 @@ Creator of the [Product Marketing Skills Marketplace](https://github.com/stefano
 
 ---
 
-### 🔍 Find Me
+### 📡 Find Me
 
 ![Newsletter](https://img.shields.io/badge/Newsletter-stefanoskarakasis.substack.com-orange) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefanos%20Karakasis-blue)
