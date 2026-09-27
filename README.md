@@ -2,8 +2,6 @@
 
 **AI PMM Coach · Builder**
 
----
-
 Product Marketing Lead at [Just Eat Takeaway.com for Business](https://www.justeattakeaway.com/home/default.aspx). I write actionable playbooks for PMMs navigating AI and build open-source tools for product marketing people.
 
 ---
