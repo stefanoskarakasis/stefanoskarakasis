@@ -1,12 +1,16 @@
 # Hi, I'm Stefanos 👋🏼
 
+---
+
 **AI PMM Coach · Builder**
+
+---
 
 Product Marketing Lead at [Just Eat Takeaway.com for Business](https://www.justeattakeaway.com/home/default.aspx). I write actionable playbooks for PMMs navigating AI and build open-source tools for product marketing people.
 
 ---
 
-### 🧭 What I Build
+### 🧭 Currently
 
 **[Product Marketing Skills Marketplace](https://github.com/stefanoskarakasis/Product-Marketing-Skills)** — 30+ agentic Claude skills for PMMs and GTM teams. Positioning, competitive intel, GTM strategy, execution, messaging, and enablement.
 
