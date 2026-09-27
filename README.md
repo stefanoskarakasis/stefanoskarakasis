@@ -1,7 +1,5 @@
 # Hi, I'm Stefanos 👋🏼
 
----
-
 **AI PMM Coach · Builder**
 
 ---
