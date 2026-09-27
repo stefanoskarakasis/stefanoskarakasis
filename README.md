@@ -1,7 +1,5 @@
 # Hi, I'm Stefanos 👋🏼
 
----
-
 **AI PMM Coach · Builder**
 
 Creator of the [Product Marketing Skills Marketplace](https://github.com/stefanoskarakasis/Product-Marketing-Skills) — 30+ agentic Claude skills for PMMs and GTM teams. I write actionable playbooks for PMMs navigating AI, teach in AI PM programs, and build open-source tools for product people.
